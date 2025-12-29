@@ -1,0 +1,18 @@
+{
+  "temperature_anomaly": {
+    "value": 0.87,
+    "unit": "°C",
+    "baseline": "1951-1980",
+    "summary": "Global temperatures have risen 0.87°C above the baseline period of 1951-1980."
+  },
+  "co2_concentration": {
+    "value": 415.2,
+    "unit": "ppm",
+    "summary": "The current CO2 concentration in the atmosphere is 415.2 parts per million."
+  },
+  "sea_level_rise": {
+    "value": 3.3,
+    "unit": "mm/year",
+    "summary": "Sea levels are rising at a rate of 3.3 millimeters per year."
+  }
+}
